@@ -1,6 +1,7 @@
 * {
   background-color: whitesmoke;
 }
+
 h1 {
    font-family: "Times New Roman", Times, serif;
    font-weight: 100;
@@ -18,10 +19,11 @@ h2 {
 
 img {
   float: right;
-  width:500px;
-  height:550px;
-  padding-bottom: 50px;
-  padding-right: 35px;
+  width: 550px;
+  height: 550px;
+  padding-bottom: 100px;
+  padding-right: 75px;
+  padding-left: 100px;
 } 
 
 p {

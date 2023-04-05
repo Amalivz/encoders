@@ -1,0 +1,40 @@
+* {
+  background-color: whitesmoke;
+}
+
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 40px;
+    padding-left: 10px;
+ 
+ }
+
+a {
+   color: black;
+   font-weight: 100;
+}
+img{
+    float: right;
+    width: 450px;
+    height: 500px;
+    padding-bottom: 100px;
+    padding-right: 75px;
+    padding-left: 100px;
+}
+.topnav {
+    overflow: hidden;
+    background-color: whitesmoke;
+    border-style: groove;
+    width: 700px;
+    
+  
+  }
+  .topnav input[type=text] {
+    float: left;
+    padding: 5;
+    border: none;
+    margin-top: 4px;
+    margin-right: 14px;
+    font-size: 17px;
+    
+  }
